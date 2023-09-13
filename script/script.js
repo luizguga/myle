@@ -46,8 +46,3 @@ setInterval(()=>{
         resultado.innerHTML = "";
     }
 },150);
-
-
-//&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-
